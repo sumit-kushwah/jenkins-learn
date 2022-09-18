@@ -1,0 +1,3 @@
+[submodule "curriculum-app"]
+	path = curriculum-app
+	url = https://github.com/sumit-kushwah/curriculum-app
